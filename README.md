@@ -1,4 +1,4 @@
-# Sistema de Cálculo de Média Escolar 📚
+# Sistema de Cálculo de Média Escolar 
 
 Um script simples em Python desenvolvido para calcular a média de duas notas de um aluno e informar se ele foi APROVADO ou REPROVADO.
 
