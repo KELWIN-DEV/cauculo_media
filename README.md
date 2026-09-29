@@ -1,2 +1,2 @@
 # cauculo_media
-Caulculadora de medias de notas em oython
+Caulculadora de medias de notas em Python
